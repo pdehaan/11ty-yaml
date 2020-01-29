@@ -1,0 +1,6 @@
+{
+  "name": "Peter deHaan",
+  // This will be used as a base URL.
+  "canonical": "https://example.com",
+  "description": "Overriding the JSON data extension with JSON5 comment support"
+}
