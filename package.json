@@ -1,0 +1,31 @@
+{
+  "name": "11ty-yaml",
+  "description": "Testing .yaml file support for global _data data files.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-yaml/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "js-yaml": "^3.13.1"
+  },
+  "homepage": "https://github.com/pdehaan/11ty-yaml#readme",
+  "keywords": [
+    "11ty",
+    "addDataExtension",
+    "eleventy",
+    "eleventyConfig",
+    "yaml"
+  ],
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-yaml.git"
+  },
+  "scripts": {
+    "11ty:build": "eleventy build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
