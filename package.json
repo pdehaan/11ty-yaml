@@ -10,7 +10,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "js-yaml": "^3.13.1",
-    "json5": "^2.1.1"
+    "json5": "^2.2.2"
   },
   "homepage": "https://github.com/pdehaan/11ty-yaml#readme",
   "keywords": [
